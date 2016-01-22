@@ -1,0 +1,19 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "description": "Nodejs playground",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yizhiheng/node-playground.git"
+  },
+  "author": "ZhihengYi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yizhiheng/node-playground/issues"
+  },
+  "homepage": "https://github.com/yizhiheng/node-playground#readme"
+}
